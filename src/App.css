@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    /* background-color: black; */
+}
+
+.top {
+    display: flex;
+}
+
+.content {
+    display: flex;
+}
+
+.left {
+    width: 15vw;
+    padding: 0%;
+    margin: 0%;
+}
+
+.right{
+    width: 10vw;
+    padding: 0%;
+    margin: 0%;
+}
+
+.Nav{
+    display: flex;
+    width: 55vw;
+    justify-content: center;
+    padding: 0%;
+    margin: 0%;
+}
